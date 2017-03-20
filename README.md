@@ -1,2 +1,2 @@
 # mattermostsendphp
-Simple CLI utility for posting text 
+Simple CLI utility for posting text to a Mattermost Incoming Webhook
