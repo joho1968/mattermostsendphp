@@ -11,7 +11,9 @@ Simply to start building (yet another) PHP codebase for talking to Mattermost :)
 
 ## Installation
 
-Put mmsend.php and mmsend.sample.ini somewhere, in the same place. Copy mmsend.sample.ini to mmsend.ini. Edit as needed. Set execute rights on mmsend.php (not required if you manually use PHP CLI binary), and off you go. Oh, you need to create an Incoming Webhook in your Mattermost as well.
+Put mmsend.php and mmsend.sample.ini somewhere, in the same place. Copy mmsend.sample.ini to mmsend.ini. Edit as needed. Set execute rights on mmsend.php (not required if you manually use PHP CLI binary), and off you go. The PHP log is set to mmsend.log, in the same directory as mmsend.php.
+
+Oh, you need to create an Incoming Webhook in your Mattermost as well.
 
 ## License
 
